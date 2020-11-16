@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.csprojAssemblyReference.cache
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.AssemblyInfoInputs.cache
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.AssemblyInfo.cs
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.csproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.exe
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.deps.json
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.runtimeconfig.json
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.runtimeconfig.dev.json
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.dll
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\bin\Debug\netcoreapp3.1\Calculadora Simples.pdb
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.dll
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.pdb
+C:\Users\VINICIUS\Desktop\SENAI\Calculadora Simples\obj\Debug\netcoreapp3.1\Calculadora Simples.genruntimeconfig.cache
